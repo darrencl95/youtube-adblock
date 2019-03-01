@@ -43,3 +43,7 @@ sed -i '/^$/d' $blacklistFile
 wait
 sed -i '/^$/d' $blacklist
 cp $blacklist /home/pi/youtube-adblock/blacklist.txt
+cd /home/pi/youtube-adblock
+git add .
+git commit -m $(date -Iseconds)
+git push origin master
