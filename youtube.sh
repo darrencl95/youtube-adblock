@@ -3,6 +3,7 @@ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lo
 
 # The script will create a file with all the youtube ads found in hostsearch and from the logs of the Pi-hole
 # it will append the list into a file called blacklist.txt'/etc/pihole/blacklist.txt'
+# 0 */3 * * * root /home/pi/youtube-adblock/youtube.sh && sudo -u pi /home/pi/youtube-adblock/upload.sh
 
 piholeIPV4=`hostname -I |awk '{print $1}'`
 piholeIPV6=`hostname -I |awk '{print $2}'`
@@ -41,7 +42,9 @@ wait
 gawk -i inplace '!a[$0]++' $blacklist
 wait
 sed -i '/^$/d' $blacklistFile
-wait
 sed -i '/^$/d' $blacklist
+wait
+sort -o $blacklistFile $blacklistFile
+sort -o $blacklist $blacklist
 wait
 cp $blacklist /home/pi/youtube-adblock/blacklist.txt

@@ -3,5 +3,5 @@ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/lo
 
 cd /home/pi/youtube-adblock
 git add .
-git commit -m $(date -Iseconds)
+git commit -m "$(wc -l blacklist.txt)"
 git push origin master
