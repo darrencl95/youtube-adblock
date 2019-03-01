@@ -43,4 +43,5 @@ wait
 sed -i '/^$/d' $blacklistFile
 wait
 sed -i '/^$/d' $blacklist
+wait
 cp $blacklist /home/pi/youtube-adblock/blacklist.txt
