@@ -43,10 +43,3 @@ sed -i '/^$/d' $blacklistFile
 wait
 sed -i '/^$/d' $blacklist
 cp $blacklist /home/pi/youtube-adblock/blacklist.txt
-cd /home/pi/youtube-adblock
-
-git config user.name darrencl95
-git config user.email darrencl95@live.com
-git add .
-git commit -m $(date -Iseconds)
-git push origin master
