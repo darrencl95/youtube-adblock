@@ -1,4 +1,5 @@
 #!/bin/sh
+export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/local/games:/usr/games
 
 # The script will create a file with all the youtube ads found in hostsearch and from the logs of the Pi-hole
 # it will append the list into a file called blacklist.txt'/etc/pihole/blacklist.txt'
