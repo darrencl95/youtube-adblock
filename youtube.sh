@@ -41,8 +41,8 @@ gawk -i inplace '!a[$0]++' $blacklistFile
 wait
 gawk -i inplace '!a[$0]++' $blacklist
 wait
-sed -i '/^$/d' $blacklistFile
-sed -i '/^$/d' $blacklist
+sed -i '/googlevideo/!d' $blacklistFile
+sed -i '/googlevideo/!d' $blacklist
 wait
 sort -o $blacklistFile $blacklistFile
 sort -o $blacklist $blacklist
