@@ -9,8 +9,8 @@ piholeIPV4=`hostname -I |awk '{print $1}'`
 piholeIPV6=`hostname -I |awk '{print $2}'`
 
 
-blacklistFile='/etc/pihole/black.list'
-blacklist='/etc/pihole/blacklist.txt'
+blacklistFile='/home/pi/youtube-adblock/black.list'
+blacklist='/home/pi/youtube-adblock/blacklist.txt'
 
 # Get the domain list from hackeragent api
 # change it to be r[Number]---sn--
@@ -46,5 +46,3 @@ sed -i '/googlevideo/!d' $blacklist
 wait
 sort -o $blacklistFile $blacklistFile
 sort -o $blacklist $blacklist
-wait
-cp $blacklist /home/pi/youtube-adblock/blacklist.txt
