@@ -80,6 +80,7 @@ r2---sn-n4v7sne7.googlevideo.com
 r2---sn-n4v7snee.googlevideo.com
 r2---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 r2---sn--n5pbvoj5caxu8-nboz.googlevideo.com
+r2---sn-nx57ynl6.googlevideo.com
 r2---sn-nx57ynls.googlevideo.com
 r2---sn-nx57ynlz.googlevideo.com
 r2---sn-nx5e6ne6.googlevideo.com
