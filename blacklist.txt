@@ -91,6 +91,7 @@ r2---sn--8vq54voxpu-ca9e.googlevideo.com
 r2---sn-a5mekn7d.googlevideo.com
 r2---sn-a5mekn7y.googlevideo.com
 r2---sn-a5mekner.googlevideo.com
+r2---sn-a5meknsy.googlevideo.com
 r2---sn-a5mlrn7l.googlevideo.com
 r2---sn-a5mlrn7z.googlevideo.com
 r2---sn--ab5l6n6s.googlevideo.com
@@ -162,6 +163,7 @@ r3---sn--5hnekn7s.googlevideo.com
 r3---sn--5np5po4v-c33z.googlevideo.com
 r3---sn-5uaezn6y.googlevideo.com
 r3---sn--8pxuuxa-q5q6.googlevideo.com
+r3---sn-a5meknsd.googlevideo.com
 r3---sn--a5mlrn7s.googlevideo.com
 r3---sn--ab5l6n67.googlevideo.com
 r3---sn--ab5szn7d.googlevideo.com
@@ -211,6 +213,7 @@ r4---sn--25ge7nsk.googlevideo.com
 r4---sn--4g5e6nes.googlevideo.com
 r4---sn--4g5e6nss.googlevideo.com
 r4---sn--4g5edn7l.googlevideo.com
+r4---sn-4g5edn7s.googlevideo.com
 r4---sn--4g5edn7y.googlevideo.com
 r4---sn--4g5edne7.googlevideo.com
 r4---sn-4g5edney.googlevideo.com
@@ -218,10 +221,12 @@ r4---sn--4g5ednld.googlevideo.com
 r4---sn--5hne6nlk.googlevideo.com
 r4---sn--5hnedn7e.googlevideo.com
 r4---sn--5np5po4v-c33ed.googlevideo.com
+r4---sn-a5m7lnlz.googlevideo.com
 r4---sn-a5mekned.googlevideo.com
 r4---sn--a5meknek.googlevideo.com
 r4---sn-a5mekner.googlevideo.com
 r4---sn--a5meknll.googlevideo.com
+r4---sn-a5msen7l.googlevideo.com
 r4---sn--ab5sznly.googlevideo.com
 r4---sn-aigzrn76.googlevideo.com
 r4---sn--avn7ln7e.googlevideo.com
@@ -239,6 +244,7 @@ r4---sn-n4v7knlk.googlevideo.com
 r4---sn-n4v7knll.googlevideo.com
 r4---sn-n4v7sn7y.googlevideo.com
 r4---sn-n4v7sn7z.googlevideo.com
+r4---sn-n4v7sney.googlevideo.com
 r4---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 r4---sn--npoe7n7r.googlevideo.com
 r4---sn--npoe7n7z.googlevideo.com
@@ -288,6 +294,7 @@ r5---sn-a5mekn7y.googlevideo.com
 r5---sn-a5meknsy.googlevideo.com
 r5---sn-a5mlrn76.googlevideo.com
 r5---sn-a5mlrn7l.googlevideo.com
+r5---sn-a5msen76.googlevideo.com
 r5---sn--a5msen7s.googlevideo.com
 r5---sn--ab5l6nzd.googlevideo.com
 r5---sn--ab5szn7e.googlevideo.com
@@ -303,6 +310,7 @@ r5---sn-hp57knzz.googlevideo.com
 r5---sn-hp57ynez.googlevideo.com
 r5---sn--n02xgoxufvg3-2gbz.googlevideo.com
 r5---sn--n3cgv5qc5oq-bh2es.googlevideo.com
+r5---sn-n4v7sn76.googlevideo.com
 r5---sn-n4v7sn7z.googlevideo.com
 r5---sn-n4v7sne7.googlevideo.com
 r5---sn-n4v7snee.googlevideo.com
