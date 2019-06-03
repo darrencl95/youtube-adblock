@@ -203,6 +203,7 @@ r2---sn--vgqsknek.googlevideo.com
 r2---sn--vgqsknes.googlevideo.com
 r2---sn--vgqsknls.googlevideo.com
 r2---sn--vgqsrnek.googlevideo.com
+r2---sn-vgqsrnel.googlevideo.com
 r3---sn-25ge7nlz.googlevideo.com
 r3---sn-25ge7ns7.googlevideo.com
 r3---sn--30a7yn76.googlevideo.com
@@ -228,6 +229,7 @@ r3---sn-a5mekn7r.googlevideo.com
 r3---sn-a5mekn7y.googlevideo.com
 r3---sn-a5meknsd.googlevideo.com
 r3---sn-a5meknsy.googlevideo.com
+r3---sn-a5mlrn7l.googlevideo.com
 r3---sn-a5mlrn7r.googlevideo.com
 r3---sn--a5mlrn7s.googlevideo.com
 r3---sn-a5mlrn7z.googlevideo.com
