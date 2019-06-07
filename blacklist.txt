@@ -60,6 +60,7 @@ r1---sn--fpnioxu-jj0e.googlevideo.com
 r1---sn--h2uht5o-otue.googlevideo.com
 r1---sn-hp57kn7e.googlevideo.com
 r1---sn-hp57knse.googlevideo.com
+r1---sn-hp57knsl.googlevideo.com
 r1---sn-hp57yn7y.googlevideo.com
 r1---sn-n4v7knl6.googlevideo.com
 r1---sn-n4v7knlk.googlevideo.com
@@ -96,6 +97,7 @@ r1---sn--q4fl6n7l.googlevideo.com
 r1---sn-q4fl6nly.googlevideo.com
 r1---sn-q4flrne7.googlevideo.com
 r1---sn-q4flrnes.googlevideo.com
+r1---sn-qxo7rn7s.googlevideo.com
 r1---sn-t0a7sn7d.googlevideo.com
 r1---sn--ucj-gh9e.googlevideo.com
 r1---sn--ug5on-unxl.googlevideo.com
@@ -203,6 +205,7 @@ r2---sn-qxo7rn7e.googlevideo.com
 r2---sn-qxoedn7e.googlevideo.com
 r2---sn-qxoedn7z.googlevideo.com
 r2---sn-t0a7ln7d.googlevideo.com
+r2---sn-t0a7sn7d.googlevideo.com
 r2---sn--ug5on-unxe.googlevideo.com
 r2---sn--uvu-c33k.googlevideo.com
 r2---sn--uxaxjvh5gbxoupo5-jo9e.googlevideo.com
@@ -305,6 +308,7 @@ r3---sn--xuxjn5-i58e.googlevideo.com
 r4---sn--25ge7nls.googlevideo.com
 r4---sn--25ge7ns7.googlevideo.com
 r4---sn--25ge7nsk.googlevideo.com
+r4---sn-25ge7nsk.googlevideo.com
 r4---sn--4g5e6nes.googlevideo.com
 r4---sn--4g5e6nss.googlevideo.com
 r4---sn--4g5edn7l.googlevideo.com
@@ -316,6 +320,7 @@ r4---sn--4g5ednld.googlevideo.com
 r4---sn-4g5ednly.googlevideo.com
 r4---sn-4g5edns7.googlevideo.com
 r4---sn-4g5ednse.googlevideo.com
+r4---sn-5hne6n7e.googlevideo.com
 r4---sn--5hne6nlk.googlevideo.com
 r4---sn-5hne6nlk.googlevideo.com
 r4---sn-5hne6nsd.googlevideo.com
@@ -387,6 +392,7 @@ r4---sn--oxmua5txg-8pxl.googlevideo.com
 r4---sn--p5qlsndk.googlevideo.com
 r4---sn-p5qlsnz6.googlevideo.com
 r4---sn--p5qs7nee.googlevideo.com
+r4---sn-q4fl6nez.googlevideo.com
 r4---sn-q4fl6nly.googlevideo.com
 r4---sn-q4fl6nsl.googlevideo.com
 r4---sn--qxau5-btqz.googlevideo.com
@@ -503,6 +509,7 @@ r5---sn--vgqsknek.googlevideo.com
 r5---sn--vgqsrnee.googlevideo.com
 r5---sn-vgqsrnee.googlevideo.com
 r6---sn-25ge7nld.googlevideo.com
+r6---sn-25ge7nlz.googlevideo.com
 r6---sn-25ge7nsl.googlevideo.com
 r6---sn-25glene7.googlevideo.com
 r6---sn--4g5e6n7d.googlevideo.com
