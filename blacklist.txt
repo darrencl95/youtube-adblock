@@ -107,6 +107,7 @@ r1---sn--uxaxjvh5gbxoupo5-jo9l.googlevideo.com
 r1---sn--vgqs7ney.googlevideo.com
 r1---sn--vgqs7nlk.googlevideo.com
 r1---sn--vgqs7ns7.googlevideo.com
+r1---sn-vgqsknel.googlevideo.com
 r1---sn--vgqsknlz.googlevideo.com
 r1---sn-vgqsrne6.googlevideo.com
 r1---sn-vgqsrnee.googlevideo.com
@@ -453,6 +454,7 @@ r5---sn-a5mlrn7d.googlevideo.com
 r5---sn-a5mlrn7k.googlevideo.com
 r5---sn-a5mlrn7l.googlevideo.com
 r5---sn-a5mlrn7y.googlevideo.com
+r5---sn-a5mlrn7z.googlevideo.com
 r5---sn-a5mlrnez.googlevideo.com
 r5---sn-a5msen76.googlevideo.com
 r5---sn--a5msen7s.googlevideo.com
